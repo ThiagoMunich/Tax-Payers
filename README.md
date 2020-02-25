@@ -9,4 +9,4 @@ Use the following rules for calculating fees:<br/><br/>
 ![Example](https://i.imgur.com/WrFYQfe.png)<br/>
 ## UML Diagram 
 ![UML Diagram](https://i.imgur.com/uKnLpvl.png)<br/><br/>
-- [LinkedIn](http://www.linkedin.com/in/ThiagoMunich "LinkedIn").
+- [LinkedIn](http://www.linkedin.com/in/ThiagoMunich "LinkedIn")
